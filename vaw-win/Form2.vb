@@ -24,14 +24,14 @@ End Module
 Public Class Form2
     Dim File = Application.StartupPath + "\vaw.ini"
     Dim Section = "Settings"
-    Dim host = "vaw.router.example.org"
-    Dim port = "1520"
-    Dim vnchost = "127.0.0.1"
-    Dim vncport = "5900"
+    Dim host = "host"
+    Dim port = "port"
+    Dim vnchost = "vnchost"
+    Dim vncport = "vncport"
 
     Function VAWReadIni()
         Form1.host = ReadIni(File, Section, host, "vaw.router.example.org")
-        Form1.port = ReadIni(File, Section, port, "1520")
+        Form1.port = ReadIni(File, Section, port, "443")
         Form1.vnchost = ReadIni(File, Section, vnchost, "127.0.0.1")
         Form1.vncport = ReadIni(File, Section, vncport, "5900")
         Return True

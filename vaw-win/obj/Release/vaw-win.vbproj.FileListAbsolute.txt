@@ -1,0 +1,16 @@
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\vaw-win.exe.config
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\vaw-win.exe
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\vaw-win.pdb
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\vaw-win.xml
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\Newtonsoft.Json.dll
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\WebSocket4Net.dll
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\bin\Release\Newtonsoft.Json.xml
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw-win.vbprojResolveAssemblyReference.cache
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw.AboutBox2.resources
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw.Form1.resources
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw.Form2.resources
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw.Resources.resources
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw-win.vbproj.GenerateResource.Cache
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw-win.exe
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw-win.xml
+C:\Users\s.caps\Documents\Visual Studio 2013\Projects\vaw-win\vaw-win\obj\Release\vaw-win.pdb
